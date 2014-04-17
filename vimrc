@@ -2,7 +2,6 @@ set nocp
 syntax on
 color twilight
 set hls
-set mouse=a
 set backspace=indent,eol,start
 set laststatus=2
 set statusline=%<%F\ 
